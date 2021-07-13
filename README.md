@@ -1,7 +1,7 @@
 ### Halt, who goes there!👋
 
 
-![]https://avatars.githubusercontent.com/u/80842074?s=60&v=4
+![](https://avatars.githubusercontent.com/u/80842074?s=60&v=4)
 
 Here are some ideas to get you started:
 
