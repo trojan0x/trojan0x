@@ -1,16 +1,16 @@
-### Hi there 👋
+### Halt, who goes there!👋
 
-<!--
-**trojan0x/trojan0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![]https://avatars.githubusercontent.com/u/80842074?s=60&v=4
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... @chop-app
+- 🌱 I’m currently learning ... Golang, NoSQLs and APIs
+- 👯 I’m looking to collaborate on ... Any project I can fit in
+- 🤔 I’m looking for help with ... 🤔
+- 💬 Ask me about ... My code life and personal life
+- 📫 How to reach me: ... http://jeffdauda.xyz/contact
+- 😄 Pronouns: ... He/Him/Guyy
+- ⚡ Fun fact: ... Humor is my thingggg
+
