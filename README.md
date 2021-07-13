@@ -1,5 +1,5 @@
 ### Halt, who goes there!👋
-![](https://facebook.com/OfficialJeffdauda/photos/a.273309106880671/816477379230505)
+![Jeff](https://github.com/trojan0x/trojan0x/blob/1be14bb76e350e2ad2b129124f2bdb8a7707c9d1/avatar3djeff_with_gas_mask.PNG)
 
 
 Here are some ideas to get you started:
