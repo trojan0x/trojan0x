@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... @chop-app
+- 🔭 I’m currently working on ... ???
 - 🌱 I’m currently learning ... Golang, NoSQLs and APIs
 - 👯 I’m looking to collaborate on ... Any project I can fit in
 - 🤔 I’m looking for help with ... 🤔
