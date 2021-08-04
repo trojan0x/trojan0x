@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him/Guyy
 - ⚡ Fun fact: ... Humor is my thingggg
 
+[![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=trojan0x)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trojan0x)](https://github.com/anuraghazra/github-readme-stats)
