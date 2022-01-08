@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Any project I can fit in
 - 🤔 I’m looking for help with ... 🤔
 - 💬 Ask me about ... My code life and personal life
-- 📫 How to reach me: ... http://jeffdauda.xyz/contact
+- 📫 How to reach me: ... 22jd4@queensu.ca
 - 😄 Pronouns: ... He/Him/Guyy
 - ⚡ Fun fact: ... Humor is my thingggg
 
