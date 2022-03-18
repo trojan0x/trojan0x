@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... Golang | Python | Cloud and site Reliability Engineering
+- 🌱 I’m currently learning ... Golang | Python | Devops | Cloud and site Reliability Engineering
 - 👯 I’m looking to collaborate on ... Any project I can fit in
 - 🤔 I’m looking for help with ... 🤔
 - 💬 Ask me about ... My code life and personal life
